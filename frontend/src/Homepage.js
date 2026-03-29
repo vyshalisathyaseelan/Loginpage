@@ -12,7 +12,7 @@ function Homepage() {
     }}>
       <h1>Welcome to NETFLIX </h1>
     </div>
-  );
+  )
 }
 
 export default Homepage;
